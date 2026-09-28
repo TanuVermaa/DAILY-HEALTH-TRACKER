@@ -1,0 +1,50 @@
+Console Output
+Plaintext
+....
+----------------------------------------------------------------------
+Ran 4 tests in 0.002s
+
+OK
+Functional Output Logs
+Below is an execution transcript of profile setup and calorie tracking:
+
+Plaintext
+==================================================
+   FITNESS TRACKER & DIET PLANNER CLI
+==================================================
+
+Enter your name: Alex
+Enter your age: 25
+Enter gender (male/female): male
+Enter current weight (kg): 80
+Enter height (cm): 178
+
+Select Activity Level:
+  1. Sedentary (little to no exercise)
+  2. Lightly Active (1-3 days/week)
+  3. Moderately Active (3-5 days/week)
+  4. Very Active (6-7 days/week)
+  5. Extra Active (intense workouts / physical job)
+Choice (1-5): 3
+
+----------------------------------------
+   SET YOUR GOALS
+----------------------------------------
+Enter target weight (kg): 75
+Timeline (weeks to goal): 8
+
+==================================================
+   CUSTOM PLAN FOR ALEX
+==================================================
+Goal Type        : Weight Loss
+Daily Target     : 2192 kcal/day
+Macro Targets    :
+  • Protein : 164g
+  • Carbs   : 219g
+  • Fats    : 73g
+
+Recommended Diet Plan:
+  • Breakfast : 3 scrambled eggs, whole-wheat toast & avocado (500 kcal)
+  • Lunch     : Turkey wrap with brown rice and mixed greens (650 kcal)
+  • Snack     : Apple with peanut butter & protein shake (350 kcal)
+  • Dinner    : Lean beef stir-fry with mixed veggies and Jasmine rice (650 kcal)
