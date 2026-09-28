@@ -1,0 +1,17 @@
+fitness-tracker-cli/
+├── .gitignore
+├── LICENSE
+├── README.md
+├── STATEMENT.md
+├── requirements.txt
+├── sample_data.txt
+├── main.py
+├── src/
+│   ├── __init__.py
+│   ├── tracker.py
+│   └── utils.py
+├── tests/
+│   ├── __init__.py
+│   └── test_tracker.py
+└── docs/
+    └── RESULTS.md

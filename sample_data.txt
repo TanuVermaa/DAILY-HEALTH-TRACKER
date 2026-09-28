@@ -1,0 +1,18 @@
+```text
+# Sample CLI Test Input Matrix
+Alex
+25
+male
+80
+178
+3
+75
+8
+1
+Chicken Salad
+450
+2
+Evening Run
+300
+3
+4

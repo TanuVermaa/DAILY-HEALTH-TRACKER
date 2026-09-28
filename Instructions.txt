@@ -1,0 +1,8 @@
+Run Application:
+
+Bash
+python main.py
+Run Tests:
+
+Bash
+python -m unittest discover -s tests
